@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Archana muraleedharan</h1>
-<h3 align="center">Embarking on an Exciting Journey to Master Object-Oriented Programming in Java</h3>
+<h3 align="center">Embarking on an Exciting Journey to Master Object-Oriented Programming in Java and web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archanamd12&label=Profile%20views&color=0e75b6&style=flat" alt="archanamd12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archanamd12" alt="archanamd12" /></a> </p>
 
-- 🌱 I’m currently learning **OOPs**
+- 🌱 I’m currently learning **Web development and concepts of OOPS**
 
 - 📫 How to reach me **archanamdharan@gmail.com**
 
